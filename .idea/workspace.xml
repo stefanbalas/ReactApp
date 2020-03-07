@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="908b6195-7e86-41a7-b03d-13344f5f5dcb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/Laborator1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Popover.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Table.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Helpers/Helpers.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583526358519</updated>
       <workItem from="1583526361411" duration="1733000" />
-      <workItem from="1583580543131" duration="10781000" />
+      <workItem from="1583580543131" duration="11392000" />
     </task>
     <servers />
   </component>
