@@ -9,7 +9,7 @@ class CarePlan extends React.Component {
 
   componentDidMount() {
     const url =
-      "http://hapi.fhir.org/baseR4/CarePlan?patient=" +
+      "https://hapi.fhir.org/baseR4/CarePlan?patient=" +
       this.props.id +
       "&_format=json&_pretty=true";
     console.log(url);

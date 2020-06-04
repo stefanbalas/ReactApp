@@ -2,23 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="908b6195-7e86-41a7-b03d-13344f5f5dcb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/Details.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Medication.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Patients.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatientsDetails/AllergyIntolerance.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatientsDetails/Appointment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatientsDetails/CarePlan.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatientsDetails/Encounters.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Medication.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Medication.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Patients.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Patients.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Helpers/Helpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Helpers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PatientsDetails/AllergyIntolerance.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/PatientsDetails/AllergyIntolerance.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PatientsDetails/Appointment.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/PatientsDetails/Appointment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PatientsDetails/CarePlan.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/PatientsDetails/CarePlan.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PatientsDetails/Encounters.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/PatientsDetails/Encounters.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -108,7 +98,7 @@
       <workItem from="1590673401745" duration="7418000" />
       <workItem from="1590909322658" duration="2601000" />
       <workItem from="1591082904583" duration="2272000" />
-      <workItem from="1591301085603" duration="7382000" />
+      <workItem from="1591301085603" duration="7823000" />
     </task>
     <servers />
   </component>

@@ -10,7 +10,7 @@ class Patients extends React.Component {
   }
 
   componentDidMount() {
-    fetch("http://hapi.fhir.org/baseR4/Patient?_format=json&_pretty=true")
+    fetch("https://hapi.fhir.org/baseR4/Patient?_format=json&_pretty=true")
       .then((response) => response.json())
       .then((data) => {
         this.setState({ data: data.entry });

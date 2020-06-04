@@ -9,7 +9,7 @@ class Medication extends React.Component {
 
     componentDidMount() {
         const url =
-            "http://hapi.fhir.org/baseR4/Medication?_format=json&_pretty=true";
+            "https://hapi.fhir.org/baseR4/Medication?_format=json&_pretty=true";
         console.log(url);
         fetch(url)
             .then((response) => response.json())

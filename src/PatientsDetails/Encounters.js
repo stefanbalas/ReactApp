@@ -9,7 +9,7 @@ class Encounters extends React.Component {
 
   componentDidMount() {
     const url =
-      "http://hapi.fhir.org/baseR4/Encounter?subject=" +
+      "https://hapi.fhir.org/baseR4/Encounter?subject=" +
       this.props.id +
       "&_format=json&_pretty=true";
     console.log(url);

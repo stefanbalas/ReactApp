@@ -9,7 +9,7 @@ class AllergyIntolerance extends React.Component {
 
   componentDidMount() {
     const url =
-      "http://hapi.fhir.org/baseR4/AllergyIntolerance?patient=" +
+      "https://hapi.fhir.org/baseR4/AllergyIntolerance?patient=" +
       this.props.id +
       "&_format=json&_pretty=true";
     console.log(url);
