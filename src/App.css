@@ -1,7 +1,15 @@
 .App {
   text-align: center;
 }
-
+.MuiToolbar-root h6 {
+  padding: 0 10px;
+}
+.MuiToolbar-root h6 a {
+   color: #282c34 !important;
+ }
+.MuiToolbar-root h6 a:hover {
+  color: #898f9b !important;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -13,7 +21,7 @@
   }
 }
 
-.App-header {
+.App {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -39,4 +47,12 @@
 
 .MuiPaper-root {
   background-color: rgb(238, 244, 255) !important;
+}
+
+.navbar-link {
+    text-decoration: none;
+}
+
+.navbar-link:visited {
+  color: inherit;
 }

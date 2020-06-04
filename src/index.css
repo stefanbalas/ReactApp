@@ -11,3 +11,30 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.body-wrapper {
+  margin-top: 64px;
+}
+.rt-th, .rt-td {
+  display: inline-block;
+  width: 25%;
+  overflow: hidden;
+  margin: 2px 20px;
+  height: auto;
+  font-size: 16px;
+}
+.rt-tr {
+  border-bottom: 1px solid;
+}
+.-loading {
+  display: none;
+}
+.-pagination>div {
+  display: inline-block;
+  padding: 5px 10px;
+}
+.-pageInfo {
+  font-size: 16px;
+}
+.-pageInfo>div {
+  display: inline-block;
+}

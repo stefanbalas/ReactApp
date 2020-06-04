@@ -1,0 +1,24 @@
+.HomePage {
+  background-color: gray;
+  margin: 0;
+  height: auto;
+}
+.HomePage-Button {
+  width: 100%;
+  margin: 0;
+}
+
+.LinkButton {
+  color: blanchedalmond;
+  margin: 5px;
+  padding: 5px;
+  width: 50%;
+}
+
+.PatientMedication {
+  display: flex;
+}
+
+.PatientMedication-Button {
+  width: 100%;
+}
